@@ -9,5 +9,6 @@ print ( word + str(number + int (str_num)))
 
 del number
 
+
 number = 10
 print("text:", number)
